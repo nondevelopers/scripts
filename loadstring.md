@@ -21,8 +21,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nonfq/scripts/main/Un
 ```luau
 loadstring(game:HttpGet('https://raw.githubusercontent.com/nonfq/scripts/main/Universal/CustomOutput.luau'))()
 ```
-
-### No Spread [Life in Prison]
-```luau
-loadstring(game:HttpGet('https://raw.githubusercontent.com/nonfq/scripts/main/Life-in-Prison/nospread.luau'))()
-```
