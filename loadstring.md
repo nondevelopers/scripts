@@ -21,3 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nonfq/scripts/main/Un
 ```luau
 loadstring(game:HttpGet('https://raw.githubusercontent.com/nonfq/scripts/main/Universal/CustomOutput.luau'))()
 ```
+### justlocklol
+```luau
+loadstring(game:HttpGet('https://raw.githubusercontent.com/nonfq/scripts/main/Universal/justlocklol.luau'))()
+```
