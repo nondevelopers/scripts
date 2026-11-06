@@ -1,4 +1,3 @@
--- This script was generated using MoonVeil 2.1.1 [https://moonveil.cc]
 local ok,src=pcall(function()
     return game:HttpGet"https://raw.githubusercontent.com/nonfq/BitchBot-UiLibrary/main/main.luau"
 end)
