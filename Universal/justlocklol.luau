@@ -1,7 +1,7 @@
 local ok,src=pcall(function()
-    return game:HttpGet"https://raw.githubusercontent.com/nonfq/BitchBot-UiLibrary/main/main.luau"
+    return game:HttpGet"https://raw.githubusercontent.com/nondevelopers/BitchBot-UiLibrary/main/main.luau"
 end)
-assert(ok and type(src)=="string"and#src>1000,"Could not download the UI library from: https://raw.githubusercontent.com/nonfq/BitchBot-UiLibrary/main/main.luau")
+assert(ok and type(src)=="string"and#src>1000,"Could not download the UI library from: https://raw.githubusercontent.com/nondevelopers/BitchBot-UiLibrary/main/main.luau")
 local chunk,err=loadstring(src)
 assert(chunk,"Library failed to compile: "..tostring(err))
 local Lib=chunk{
