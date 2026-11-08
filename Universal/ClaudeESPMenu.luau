@@ -1,6 +1,6 @@
 --[[
 good esp
-made by: @nonfq
+made by: @nondevelopers
 ]]--
 
 local genv = (getgenv and getgenv()) or _G
