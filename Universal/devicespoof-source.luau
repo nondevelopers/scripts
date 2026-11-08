@@ -1,6 +1,6 @@
 --[[
 device spoooof
-made by: @nonfq
+made by: @nondevelopers
 ]]--
 
 local SG = game:GetService("StarterGui")
